@@ -1,6 +1,8 @@
 ## Date: 12-09-2026
 
 **Today's Work:**
+- Completed Session 4 class problems on Arrays (Two Sum, Best Time to Buy and Sell Stock, Contains Duplicate, Merge Two Sorted Arrays, Rotate Array).
+- Completed Session 4 assignment problems on Arrays (Product of Array Except Self, Maximum Subarray, 3Sum, Subarray Sum Equals K, Find Minimum in Rotated Sorted Array).
 - Completed Session 3 class problems on Programming Fundamentals (Prime Checker, Star Triangle, Palindrome Number, GCD Calculator, Armstrong Number).
 - Completed Session 2 class problems on String Operations (Vowel & Consonant Counter, CSV Student Record Parser, File Extension Validator, Masked Phone Number Formatter, Bank Transaction Validator).
 - Completed Session 2 assignment problems on String Operations (ATM PIN Length Validator, Word Reversal Encoder, Product Inventory CSV Parser, Library ISBN Validator, Stop-Word-Filtered Word Frequency Report).
