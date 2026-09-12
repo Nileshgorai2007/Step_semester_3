@@ -1,6 +1,8 @@
 ## Date: 12-09-2026
 
 **Today's Work:**
+- Completed Session 5 class problems on Java Arrays and Methods (Hackathon Score Booster, Duplicate Team Name Finder, Top-3 Podium Finder, Hackathon Seating Optimizer, Placement Drive Ranking).
+- Completed Session 5 assignment problems on Java Arrays and Methods (Fantasy Team Score Multiplier, Duplicate Player Pick Checker, Top Performer Tracker, Match Day Grid Analyzer, Fantasy League Auto-Draft).
 - Completed Session 4 class problems on Arrays (Two Sum, Best Time to Buy and Sell Stock, Contains Duplicate, Merge Two Sorted Arrays, Rotate Array).
 - Completed Session 4 assignment problems on Arrays (Product of Array Except Self, Maximum Subarray, 3Sum, Subarray Sum Equals K, Find Minimum in Rotated Sorted Array).
 - Completed Session 3 class problems on Programming Fundamentals (Prime Checker, Star Triangle, Palindrome Number, GCD Calculator, Armstrong Number).
