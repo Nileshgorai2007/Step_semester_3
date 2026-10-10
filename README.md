@@ -1,4 +1,7 @@
-## Date: 22-08-2026
+## Date: 26-09-2026
+
+**Today's Work:**
+- Added abstraction problems for week 9 (Movie Ticket Counter, Canteen Billing Counter, Vehicle Parking Charge, Payment System Fee Calculation, Library Due Date Calculator).
 
 **Today's Work:**
 - Completed Java Control Flow problems.
